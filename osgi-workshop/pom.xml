@@ -18,8 +18,6 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
-    
-
     <!-- Product-level target platform: the pool of external bundles every
          module resolves its Import-Package requirements against. -->
     <repositories>
